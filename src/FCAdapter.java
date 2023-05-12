@@ -1,6 +1,3 @@
-import Classes.Temperatures.FahrenheitTemperature;
-import Interfaces.*;
-
 public class FCAdapter implements ICelcius {
     FahrenheitTemperature FAHRENHEIT_TEMPERATURE;
 

@@ -1,6 +1,3 @@
-import Classes.Temperatures.KelvinTemperature;
-import Interfaces.*;
-
 public class KFAdapter implements IFahrenheit {
     KelvinTemperature KELVIN_TEMPERATURE;
 

@@ -1,6 +1,3 @@
-import Classes.Temperatures.CelciusTemperature;
-import Interfaces.*;
-
 public class CFAdapter implements IFahrenheit {
     CelciusTemperature CELCIUS_TEMPERATURE;
 

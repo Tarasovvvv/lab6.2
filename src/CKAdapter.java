@@ -1,6 +1,3 @@
-import Classes.Temperatures.CelciusTemperature;
-import Interfaces.*;
-
 public class CKAdapter implements IKelvin {
     CelciusTemperature CELCIUS_TEMPERATURE;
 

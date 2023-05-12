@@ -1,6 +1,3 @@
-import Classes.Temperatures.KelvinTemperature;
-import Interfaces.*;
-
 public class KCAdapter implements ICelcius {
     KelvinTemperature KELVIN_TEMPERATURE;
 

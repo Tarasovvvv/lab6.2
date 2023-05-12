@@ -1,6 +1,3 @@
-import Classes.Temperatures.FahrenheitTemperature;
-import Interfaces.*;
-
 public class FKAdapter implements IKelvin {
     FahrenheitTemperature FAHRENHEIT_TEMPERATURE;
 

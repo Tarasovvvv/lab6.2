@@ -1,8 +1,4 @@
-public class Main {
-    public static void main(String[] args) {
-        CelciusTemperature temp1 = new CelciusTemperature(36.6);
-        IKelvin CKA = new CKAdapter(temp1);
-        IFahrenheit CFA = new CFAdapter(temp1);
+;
 
         FahrenheitTemperature temp2 = new FahrenheitTemperature(36.6);
         ICelcius FCA = new FCAdapter(temp2);
